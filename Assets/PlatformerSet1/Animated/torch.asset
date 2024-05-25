@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: torch
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -565794290, guid: f74433124a3b60644a39600ba5126d5c, type: 3}
+  - {fileID: 311528591, guid: 09b31d490701d0b48acc760497b071fc, type: 3}
+  - {fileID: -182396876, guid: 153d88c4f31c10746aeec324851a95d0, type: 3}
+  - {fileID: 96540987, guid: 724d32bae3df6e9448697123f1acd972, type: 3}
+  m_MinSpeed: 2
+  m_MaxSpeed: 3
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0
