@@ -3312,11 +3312,11 @@ Tilemap:
       - {fileID: 1873310392, guid: 7d7b67b4e59bbc74d81d62962e118570, type: 3}
       - {fileID: 1517731417, guid: 941acab82118b78418d529bd0869e115, type: 3}
       - {fileID: -1639845199, guid: dbd558ef2c2290a478cdc40badcb4430, type: 3}
-<<<<<<< HEAD:Assets/Scenes/Level2_GameplayScene.unity
+
       m_AnimationSpeed: 2.1548045
-=======
+
       m_AnimationSpeed: 2.8198364
->>>>>>> e04bb403ef9dbc3e9d76b14040a9d16e9d314d0f:Assets/Scenes/GameplayScene.unity
+
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 48, y: -19, z: 0}
@@ -3327,11 +3327,11 @@ Tilemap:
       - {fileID: -729764612, guid: 7d7b67b4e59bbc74d81d62962e118570, type: 3}
       - {fileID: 1324152591, guid: 941acab82118b78418d529bd0869e115, type: 3}
       - {fileID: -1973331956, guid: dbd558ef2c2290a478cdc40badcb4430, type: 3}
-<<<<<<< HEAD:Assets/Scenes/Level2_GameplayScene.unity
+
       m_AnimationSpeed: 2.4344234
-=======
+
       m_AnimationSpeed: 2.999078
->>>>>>> e04bb403ef9dbc3e9d76b14040a9d16e9d314d0f:Assets/Scenes/GameplayScene.unity
+
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 89, y: -19, z: 0}
@@ -3342,11 +3342,11 @@ Tilemap:
       - {fileID: 1941017905, guid: 40d53443c5f19e942b076aad9edb4bb6, type: 3}
       - {fileID: 2124351195, guid: 0e90fd29aeb54c24dabf651ddfade11c, type: 3}
       - {fileID: 13542928, guid: 914130d475273ef498c193d17bc4ab47, type: 3}
-<<<<<<< HEAD:Assets/Scenes/Level2_GameplayScene.unity
+
       m_AnimationSpeed: 2.3767014
-=======
+
       m_AnimationSpeed: 2.5858727
->>>>>>> e04bb403ef9dbc3e9d76b14040a9d16e9d314d0f:Assets/Scenes/GameplayScene.unity
+
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 97, y: -19, z: 0}
@@ -3357,11 +3357,11 @@ Tilemap:
       - {fileID: -1956652814, guid: d91bf9a5da957184c8591eb7bf16f05a, type: 3}
       - {fileID: 1139982955, guid: a8ca647143faf9f44a2abdab30c3968e, type: 3}
       - {fileID: 13542928, guid: 914130d475273ef498c193d17bc4ab47, type: 3}
-<<<<<<< HEAD:Assets/Scenes/Level2_GameplayScene.unity
+
       m_AnimationSpeed: 2.0987725
-=======
+
       m_AnimationSpeed: 2.8365571
->>>>>>> e04bb403ef9dbc3e9d76b14040a9d16e9d314d0f:Assets/Scenes/GameplayScene.unity
+
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 48, y: -18, z: 0}
@@ -3372,11 +3372,11 @@ Tilemap:
       - {fileID: -1908086079, guid: 7d7b67b4e59bbc74d81d62962e118570, type: 3}
       - {fileID: -2070392804, guid: 941acab82118b78418d529bd0869e115, type: 3}
       - {fileID: -734939385, guid: dbd558ef2c2290a478cdc40badcb4430, type: 3}
-<<<<<<< HEAD:Assets/Scenes/Level2_GameplayScene.unity
+
       m_AnimationSpeed: 2.9920676
-=======
+
       m_AnimationSpeed: 2.4033208
->>>>>>> e04bb403ef9dbc3e9d76b14040a9d16e9d314d0f:Assets/Scenes/GameplayScene.unity
+
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 58, y: -15, z: 0}
@@ -3447,11 +3447,11 @@ Tilemap:
       - {fileID: 1941017905, guid: 40d53443c5f19e942b076aad9edb4bb6, type: 3}
       - {fileID: 2124351195, guid: 0e90fd29aeb54c24dabf651ddfade11c, type: 3}
       - {fileID: 13542928, guid: 914130d475273ef498c193d17bc4ab47, type: 3}
-<<<<<<< HEAD:Assets/Scenes/Level2_GameplayScene.unity
+
       m_AnimationSpeed: 2.0453582
-=======
+
       m_AnimationSpeed: 2.0340314
->>>>>>> e04bb403ef9dbc3e9d76b14040a9d16e9d314d0f:Assets/Scenes/GameplayScene.unity
+
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 110, y: -8, z: 0}
@@ -3462,11 +3462,11 @@ Tilemap:
       - {fileID: 1941017905, guid: 40d53443c5f19e942b076aad9edb4bb6, type: 3}
       - {fileID: 2124351195, guid: 0e90fd29aeb54c24dabf651ddfade11c, type: 3}
       - {fileID: 13542928, guid: 914130d475273ef498c193d17bc4ab47, type: 3}
-<<<<<<< HEAD:Assets/Scenes/Level2_GameplayScene.unity
+
       m_AnimationSpeed: 2.7579186
-=======
+
       m_AnimationSpeed: 2.2860649
->>>>>>> e04bb403ef9dbc3e9d76b14040a9d16e9d314d0f:Assets/Scenes/GameplayScene.unity
+
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 115, y: -8, z: 0}
@@ -3477,11 +3477,11 @@ Tilemap:
       - {fileID: 1941017905, guid: 40d53443c5f19e942b076aad9edb4bb6, type: 3}
       - {fileID: 2124351195, guid: 0e90fd29aeb54c24dabf651ddfade11c, type: 3}
       - {fileID: 13542928, guid: 914130d475273ef498c193d17bc4ab47, type: 3}
-<<<<<<< HEAD:Assets/Scenes/Level2_GameplayScene.unity
+
       m_AnimationSpeed: 2.3745322
-=======
+
       m_AnimationSpeed: 2.8253644
->>>>>>> e04bb403ef9dbc3e9d76b14040a9d16e9d314d0f:Assets/Scenes/GameplayScene.unity
+
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 73, y: -7, z: 0}
@@ -3564,11 +3564,11 @@ Tilemap:
       - {fileID: 1941017905, guid: 40d53443c5f19e942b076aad9edb4bb6, type: 3}
       - {fileID: 2124351195, guid: 0e90fd29aeb54c24dabf651ddfade11c, type: 3}
       - {fileID: 13542928, guid: 914130d475273ef498c193d17bc4ab47, type: 3}
-<<<<<<< HEAD:Assets/Scenes/Level2_GameplayScene.unity
+
       m_AnimationSpeed: 2.1644878
-=======
+
       m_AnimationSpeed: 2.939874
->>>>>>> e04bb403ef9dbc3e9d76b14040a9d16e9d314d0f:Assets/Scenes/GameplayScene.unity
+
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 45, y: -5, z: 0}
@@ -3579,11 +3579,11 @@ Tilemap:
       - {fileID: 1873310392, guid: 7d7b67b4e59bbc74d81d62962e118570, type: 3}
       - {fileID: 1517731417, guid: 941acab82118b78418d529bd0869e115, type: 3}
       - {fileID: -1639845199, guid: dbd558ef2c2290a478cdc40badcb4430, type: 3}
-<<<<<<< HEAD:Assets/Scenes/Level2_GameplayScene.unity
+
       m_AnimationSpeed: 2.5797257
-=======
+
       m_AnimationSpeed: 2.0883925
->>>>>>> e04bb403ef9dbc3e9d76b14040a9d16e9d314d0f:Assets/Scenes/GameplayScene.unity
+
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 73, y: -5, z: 0}
@@ -3594,11 +3594,11 @@ Tilemap:
       - {fileID: 1873310392, guid: 7d7b67b4e59bbc74d81d62962e118570, type: 3}
       - {fileID: 1517731417, guid: 941acab82118b78418d529bd0869e115, type: 3}
       - {fileID: -1639845199, guid: dbd558ef2c2290a478cdc40badcb4430, type: 3}
-<<<<<<< HEAD:Assets/Scenes/Level2_GameplayScene.unity
+
       m_AnimationSpeed: 2.6954167
-=======
+
       m_AnimationSpeed: 2.9246998
->>>>>>> e04bb403ef9dbc3e9d76b14040a9d16e9d314d0f:Assets/Scenes/GameplayScene.unity
+
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 95, y: -5, z: 0}
@@ -3609,11 +3609,11 @@ Tilemap:
       - {fileID: 311528591, guid: 09b31d490701d0b48acc760497b071fc, type: 3}
       - {fileID: -182396876, guid: 153d88c4f31c10746aeec324851a95d0, type: 3}
       - {fileID: 96540987, guid: 724d32bae3df6e9448697123f1acd972, type: 3}
-<<<<<<< HEAD:Assets/Scenes/Level2_GameplayScene.unity
+
       m_AnimationSpeed: 2.7016282
-=======
+
       m_AnimationSpeed: 2.0322404
->>>>>>> e04bb403ef9dbc3e9d76b14040a9d16e9d314d0f:Assets/Scenes/GameplayScene.unity
+
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 14, y: -4, z: 0}
@@ -3624,11 +3624,11 @@ Tilemap:
       - {fileID: 311528591, guid: 09b31d490701d0b48acc760497b071fc, type: 3}
       - {fileID: -182396876, guid: 153d88c4f31c10746aeec324851a95d0, type: 3}
       - {fileID: 96540987, guid: 724d32bae3df6e9448697123f1acd972, type: 3}
-<<<<<<< HEAD:Assets/Scenes/Level2_GameplayScene.unity
+
       m_AnimationSpeed: 2.099502
-=======
+
       m_AnimationSpeed: 2.64613
->>>>>>> e04bb403ef9dbc3e9d76b14040a9d16e9d314d0f:Assets/Scenes/GameplayScene.unity
+
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 45, y: -4, z: 0}
@@ -3639,11 +3639,11 @@ Tilemap:
       - {fileID: -729764612, guid: 7d7b67b4e59bbc74d81d62962e118570, type: 3}
       - {fileID: 1324152591, guid: 941acab82118b78418d529bd0869e115, type: 3}
       - {fileID: -1973331956, guid: dbd558ef2c2290a478cdc40badcb4430, type: 3}
-<<<<<<< HEAD:Assets/Scenes/Level2_GameplayScene.unity
+
       m_AnimationSpeed: 2.210258
-=======
+
       m_AnimationSpeed: 2.085298
->>>>>>> e04bb403ef9dbc3e9d76b14040a9d16e9d314d0f:Assets/Scenes/GameplayScene.unity
+
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 73, y: -4, z: 0}
@@ -3654,11 +3654,11 @@ Tilemap:
       - {fileID: -729764612, guid: 7d7b67b4e59bbc74d81d62962e118570, type: 3}
       - {fileID: 1324152591, guid: 941acab82118b78418d529bd0869e115, type: 3}
       - {fileID: -1973331956, guid: dbd558ef2c2290a478cdc40badcb4430, type: 3}
-<<<<<<< HEAD:Assets/Scenes/Level2_GameplayScene.unity
+
       m_AnimationSpeed: 2.5812812
-=======
+
       m_AnimationSpeed: 2.9751112
->>>>>>> e04bb403ef9dbc3e9d76b14040a9d16e9d314d0f:Assets/Scenes/GameplayScene.unity
+
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 81, y: -4, z: 0}
@@ -3669,11 +3669,11 @@ Tilemap:
       - {fileID: 1941017905, guid: 40d53443c5f19e942b076aad9edb4bb6, type: 3}
       - {fileID: 2124351195, guid: 0e90fd29aeb54c24dabf651ddfade11c, type: 3}
       - {fileID: 13542928, guid: 914130d475273ef498c193d17bc4ab47, type: 3}
-<<<<<<< HEAD:Assets/Scenes/Level2_GameplayScene.unity
+
       m_AnimationSpeed: 2.043288
-=======
+
       m_AnimationSpeed: 2.7846339
->>>>>>> e04bb403ef9dbc3e9d76b14040a9d16e9d314d0f:Assets/Scenes/GameplayScene.unity
+
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 45, y: -3, z: 0}
@@ -3684,11 +3684,11 @@ Tilemap:
       - {fileID: -1908086079, guid: 7d7b67b4e59bbc74d81d62962e118570, type: 3}
       - {fileID: -2070392804, guid: 941acab82118b78418d529bd0869e115, type: 3}
       - {fileID: -734939385, guid: dbd558ef2c2290a478cdc40badcb4430, type: 3}
-<<<<<<< HEAD:Assets/Scenes/Level2_GameplayScene.unity
+
       m_AnimationSpeed: 2.1218545
-=======
+
       m_AnimationSpeed: 2.9897945
->>>>>>> e04bb403ef9dbc3e9d76b14040a9d16e9d314d0f:Assets/Scenes/GameplayScene.unity
+
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 73, y: -3, z: 0}
@@ -3699,11 +3699,11 @@ Tilemap:
       - {fileID: -1908086079, guid: 7d7b67b4e59bbc74d81d62962e118570, type: 3}
       - {fileID: -2070392804, guid: 941acab82118b78418d529bd0869e115, type: 3}
       - {fileID: -734939385, guid: dbd558ef2c2290a478cdc40badcb4430, type: 3}
-<<<<<<< HEAD:Assets/Scenes/Level2_GameplayScene.unity
+
       m_AnimationSpeed: 2.8782732
-=======
+
       m_AnimationSpeed: 2.6716263
->>>>>>> e04bb403ef9dbc3e9d76b14040a9d16e9d314d0f:Assets/Scenes/GameplayScene.unity
+
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 12, y: -2, z: 0}
@@ -3738,11 +3738,11 @@ Tilemap:
       - {fileID: 311528591, guid: 09b31d490701d0b48acc760497b071fc, type: 3}
       - {fileID: -182396876, guid: 153d88c4f31c10746aeec324851a95d0, type: 3}
       - {fileID: 96540987, guid: 724d32bae3df6e9448697123f1acd972, type: 3}
-<<<<<<< HEAD:Assets/Scenes/Level2_GameplayScene.unity
+
       m_AnimationSpeed: 2.162517
-=======
+
       m_AnimationSpeed: 2.7094986
->>>>>>> e04bb403ef9dbc3e9d76b14040a9d16e9d314d0f:Assets/Scenes/GameplayScene.unity
+
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 4, y: 0, z: 0}
@@ -3753,11 +3753,11 @@ Tilemap:
       - {fileID: -1956652814, guid: d91bf9a5da957184c8591eb7bf16f05a, type: 3}
       - {fileID: 1139982955, guid: a8ca647143faf9f44a2abdab30c3968e, type: 3}
       - {fileID: 13542928, guid: 914130d475273ef498c193d17bc4ab47, type: 3}
-<<<<<<< HEAD:Assets/Scenes/Level2_GameplayScene.unity
+
       m_AnimationSpeed: 2.9691527
-=======
+
       m_AnimationSpeed: 2.6955245
->>>>>>> e04bb403ef9dbc3e9d76b14040a9d16e9d314d0f:Assets/Scenes/GameplayScene.unity
+
       m_AnimationTimeOffset: 0
       m_Flags: 0
   m_TileAssetArray:
@@ -4870,8 +4870,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cam: {fileID: 1955645149}
   followTarget: {fileID: 1948433473}
-<<<<<<< HEAD:Assets/Scenes/Level2_GameplayScene.unity
-=======
+
+
 --- !u!1 &941266684
 GameObject:
   m_ObjectHideFlags: 0
@@ -7256,7 +7256,7 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
->>>>>>> e04bb403ef9dbc3e9d76b14040a9d16e9d314d0f:Assets/Scenes/GameplayScene.unity
+
 --- !u!1 &1147359829
 GameObject:
   m_ObjectHideFlags: 0
