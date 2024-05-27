@@ -13,7 +13,8 @@ public class Attack : MonoBehaviour
 
         if (damageable != null)
         {
-            bool gotHit = damageable.Hit(attackDamage, knockBack);
+            Vector2 deliveredKnockBack = transform.parent.localScale.x > 0 ? knockBack : new Vector2(-knockBack.x, knockBack.y);
+            bool gotHit = damageable.Hit(attackDamage, deliveredKnockBack);
 
             if (gotHit)
                 Debug.Log(collision.name + " hit for " + attackDamage);
