@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 public class SceneController : MonoBehaviour
 {
     public static SceneController instance;
+    [SerializeField] Animator tras;
 
     private void Awake()
     {
@@ -21,11 +22,19 @@ public class SceneController : MonoBehaviour
     }
     public void NextLevel()
     {
-        SceneManager.LoadSceneAsync(SceneManager.GetActiveScene().buildIndex + 1);
+        StartCoroutine(LoadLevel());
     }
 
     public void LoadScene(string sceneName)
     {
         SceneManager.LoadSceneAsync(sceneName);
+    }
+
+    IEnumerator LoadLevel()
+    {
+        tras.SetTrigger("End");
+        yield return new WaitForSeconds(1);
+        SceneManager.LoadSceneAsync(SceneManager.GetActiveScene().buildIndex + 1);
+        tras.SetTrigger("Start");
     }
 }
