@@ -45,7 +45,7 @@ public class MushScript : MonoBehaviour
             animator.SetBool(AnimationStrings.hasTarget, value);
             _hasTarget = value; 
         } 
-    
+
     }
 
     public bool CanMove
