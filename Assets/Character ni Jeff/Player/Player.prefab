@@ -399,7 +399,7 @@ MonoBehaviour:
   _health: 100
   _isAlive: 1
   isInvinsible: 0
-  invisibilityTime: 1
+  invisibilityTime: 0.5
 --- !u!1 &4412805173054657650
 GameObject:
   m_ObjectHideFlags: 0
