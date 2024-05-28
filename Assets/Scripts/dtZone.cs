@@ -1,9 +1,11 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class dtZone : MonoBehaviour
 {
+    public UnityEvent noMoreBlock;
     public List<Collider2D> colliders = new List<Collider2D>();
     Collider2D col;
 
@@ -20,6 +22,10 @@ public class dtZone : MonoBehaviour
     private void OnTriggerExit2D(Collider2D collision)
     {
         colliders.Remove(collision);
+
+        if (colliders.Count <= 0 ) {
+            noMoreBlock.Invoke();
+        }
     }
 
 }

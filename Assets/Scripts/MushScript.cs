@@ -7,6 +7,7 @@ using UnityEngine;
 public class MushScript : MonoBehaviour
 {
     public dtZone attackZone;
+    public dtZone cliffDetectionZone;
     public float speed = 3f;
     public float walkStopRate = 0.04f;
     Rigidbody2D rb;
@@ -103,5 +104,13 @@ public class MushScript : MonoBehaviour
     public void OnHit(int damage, Vector2 knockBack)
     {
         rb.velocity = new Vector2(knockBack.x, rb.velocity.y + knockBack.y);
+    }
+
+    public void OnNoBlockDetected()
+    {
+        if(touchingDirections.IsGrounded)
+        {
+            FlipDirection();
+        }
     }
 }
